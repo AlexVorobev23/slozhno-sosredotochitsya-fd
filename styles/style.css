@@ -99,6 +99,21 @@
   margin-bottom: 10px;
 }
 
+.grid-position_multitasking {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.grid-position_food {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+.grid-position_gadgets {
+  grid-column: 3;
+  grid-row: 2;
+}
+
 .section_description_title {
   font-family: 'IBM Plex mono', sans-serif;
   font-style: normal;

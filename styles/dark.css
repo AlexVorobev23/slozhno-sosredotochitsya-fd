@@ -16,14 +16,3 @@
     --title-description-color: #000028;
     --description-color: #F1B2CE;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-color: url(../images/cover-image-dark.png);
-    --accent-color: #ff0070;
-    --title-color: #DB00FF;
-    --title-section-color: #FF0070;
-    --title-description-color: #000028;
-    --description-color: #F1B2CE;
-  }
-}

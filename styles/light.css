@@ -13,7 +13,7 @@
   --accent-color: #FF8DCB;
   --title-color: #FFC2E6;
   --title-section-color: #353430;
-  --title-description-color: #000028;
+  --title-description-color: #353430;
   --description-color: #353430;
 }
 
@@ -23,7 +23,7 @@
     --accent-color: #FF8DCB;
     --title-color: #FFC2E6;
     --title-section-color: #353430;
-    --title-description-color: #000028;
+    --title-description-color: #353430;
     --description-color: #353430;
   }
 }
