@@ -14,5 +14,9 @@
     --title-color: #DB00FF;
     --title-section-color: #FF0070;
     --title-description-color: #000028;
+    --description_subtitle: #000028;
     --description-color: #F1B2CE;
+    --menu-button-color: #FF0070;
+    --menu-button-border-color: rgba(255, 0, 112, 0.4);
+    --decorated-zone: #ff0070;
 }

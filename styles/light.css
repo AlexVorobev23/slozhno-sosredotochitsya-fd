@@ -14,7 +14,11 @@
   --title-color: #FFC2E6;
   --title-section-color: #353430;
   --title-description-color: #353430;
+  --description_subtitle: #353430;
   --description-color: #353430;
+  --menu-button-color: rgba(53, 52, 48);
+  --menu-button-border-color: rgba(50, 49, 45, 0.4);
+  --decorated-zone: #353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -24,6 +28,10 @@
     --title-color: #FFC2E6;
     --title-section-color: #353430;
     --title-description-color: #353430;
+    --description_subtitle: #353430;
     --description-color: #353430;
+    --menu-button-color: rgba(53, 52, 48);
+    --menu-button-border-color: rgba(50, 49, 45, 0.4);
+    --decorated-zone: #353430;
   }
 }
