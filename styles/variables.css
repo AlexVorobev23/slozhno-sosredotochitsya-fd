@@ -4,6 +4,7 @@
 */
 /* Файл variables.css */
 :root {
+    --bg-color: url(../images/cover-image-dark.png);
     --accent-color: #ff0070;
     --title-color: #DB00FF;
     --title-section-color: #FF0070;
