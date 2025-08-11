@@ -436,7 +436,7 @@
   }
 
   .section-concentration__card-list {
-    display: block;
+    display: flex;
   }
 
   .section_title {
